@@ -1,5 +1,5 @@
 {
-  "name": "peerflix",
+  "name": "peerflix-pct",
   "description": "Streaming torrent client for Node.js",
   "version": "0.32.4",
   "author": "Mathias Buus (@mafintosh)",
