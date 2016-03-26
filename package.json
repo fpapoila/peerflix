@@ -30,7 +30,7 @@
     "pump": "^0.3.1",
     "range-parser": "^1.0.0",
     "rc": "^0.4.0",
-    "torrent-stream": "^1.0.1",
+    "torrent-stream": "git+https://github.com/jaruba/torrent-stream.git",
     "windows-no-runnable": "~0.0.6",
     "xtend": "^4.0.0"
   },
